@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "volinfo", "volinfo\volinfo.fsproj", "{B756339C-C6A8-4A56-9D37-480DEA4C972E}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "volinfo-test", "volinfo-test\volinfo-test.fsproj", "{D8E78A83-B80B-4DFD-8EAC-EDA8C4F95F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B756339C-C6A8-4A56-9D37-480DEA4C972E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B756339C-C6A8-4A56-9D37-480DEA4C972E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B756339C-C6A8-4A56-9D37-480DEA4C972E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B756339C-C6A8-4A56-9D37-480DEA4C972E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E78A83-B80B-4DFD-8EAC-EDA8C4F95F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E78A83-B80B-4DFD-8EAC-EDA8C4F95F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E78A83-B80B-4DFD-8EAC-EDA8C4F95F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E78A83-B80B-4DFD-8EAC-EDA8C4F95F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
